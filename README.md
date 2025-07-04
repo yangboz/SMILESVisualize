@@ -1,10 +1,12 @@
 # SMILES need colorful visualization?
  oe with a python fastapi   restful template for sharing simplified Molecular input line entry system.
 
-  examples: 
-SMILE text:  OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
+  ## examples: 
+  
+### SMILE text:  OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
 
-visualize:
+### visualize:
+
 ![vitamin](https://github.com/yangboz/SMILESVisualize/blob/master/SMILES_vitamin.jpeg)
 
 ## how to verify it?
