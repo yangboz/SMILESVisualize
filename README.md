@@ -2,8 +2,11 @@
  oe with a python fastapi   restful template for sharing simplified Molecular input line entry system.
 
   ## examples: 
+
   
-### SMILE text:  OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
+### SMILE text: Thiamine (vitamin B1, C12H17N4OS+)
+
+Molecular structure of thiamin	OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
 
 ### visualize:
 
