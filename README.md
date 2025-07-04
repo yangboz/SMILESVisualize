@@ -1,5 +1,10 @@
-# restful-fastapi-starter
-a python fastapi   restful template for sharing simplified Molecular input line entry system.
+# SMILES need colorful visualization?
+ oe with a python fastapi   restful template for sharing simplified Molecular input line entry system.
+
+  examples: 
+SMILE text:  OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
+
+visualize:
 ![vitamin](https://github.com/yangboz/SMILESVisualize/blob/master/SMILES_vitamin.jpeg)
 
 ## how to verify it?
