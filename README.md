@@ -70,6 +70,11 @@ Random attention map, multi-color, saved as PDF:
 python sorafennib_attention_plot_with_smiles.py --multi --output map.pdf
 ```
 
+## fast API
+
+```bash
+uvicorn sorafennib_api_app_with_preview:app --reload
+```
 
 ## next step SMILES need colorful visualization?
  oe with a python fastapi   restful template for sharing simplified Molecular input line entry system.
