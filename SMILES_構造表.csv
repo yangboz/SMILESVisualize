@@ -1,0 +1,17 @@
+分子名,SMILES記法
+窒素,N#N
+イソシアン酸メチル (MIC),CN=C=O
+硫酸銅(II),[Cu+2].[O-]S(=O)(=O)[O-]
+エナントトキシン,CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO
+ピレトリン II,COC(=O)C(\C)=C\C1C(C)(C)[C@H]1C(=O)O[C@@H]2C(C)=C(C(=O)C2)CC=CC=C
+アフラトキシンB1,O1C=C[C@H]([C@H]1O2)c3c2cc(OC)c4c3OC(=O)C5=C4CCC(=O)5
+グルコース,OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1
+クスクチン/ベルゲニン,OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H]2[C@@H]1c3c(O)c(OC)c(O)cc3C(=O)O2
+カイガラムシのフェロモン,CC(=O)OCCC(/C)=C\C[C@H](C(C)=C)CCC=C
+"2S,5R-カルコガラン",CC[C@H](O1)CC[C@@]12CCCO2
+バニリン,O=Cc1ccc(O)c(OC)c1
+メラトニン,CC(=O)NCCC1=CNc2c1cc(OC)cc2
+フラボペレイリン,CCc(c1)ccc2[n+]1ccc3c2Nc4c3cccc4
+ニコチン,CN1CCC[C@H]1c2cccnc2
+ツジョン,CC(C)[C@@]12C[C@@H]1[C@@H](C)C(=O)C2
+チアミン,OCCc1c(C)[n+](=cs1)Cc2cnc(C)nc(N)2
