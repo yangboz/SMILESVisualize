@@ -59,6 +59,8 @@ python sorafennib_attention_plot_with_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O
 ## Examples
 
 Render aspirin molecule:
+
+![vitamin](https://github.com/yangboz/SMILESVisualize/blob/master/SMILES_vitamin.jpeg)
 ```bash
 python sorafennib_attention_plot_with_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O" --output aspirin.png
 ```
