@@ -90,6 +90,12 @@ Molecular structure of thiamin	OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
 
 https://en.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_System
 
+### 3D
+
+https://github.com/Autodesk/notebook-molecular-visualization
+
+https://github.com/avirshup/py3dmol
+
 ### need more complex,high resolution visualization ?
 
 drop email to youngwelle@gmail.com
