@@ -1,4 +1,4 @@
-# Attention Map and SMILES Renderer
+# GNN Attention Map and SMILES Renderer
 
 This Python utility supports two modes:
 1. Generating attention maps using random data.
